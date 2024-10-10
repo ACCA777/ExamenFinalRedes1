@@ -13,4 +13,4 @@ Computer Name: $computerName
 Domain Name: $domainName
 "@
 # Mostrar el mensaje en una ventana emergente
-[System.Windows.MessageBox]::Show($message, "Información del equipo")
+[System.Windows.MessageBox]::Show($message, "Información del equipo") ARCHIVO MODIFICADO 
